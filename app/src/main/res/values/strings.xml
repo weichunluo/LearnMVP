@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LearnMVP</string>
+    <string name="save">存储数据</string>
+    <string name="load">读取数据</string>
+    <string name="id">ID:</string>
+    <string name="firstName">FirstName:</string>
+    <string name="lastName">LastName:</string>
+</resources>
